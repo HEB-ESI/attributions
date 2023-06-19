@@ -5,25 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=400, initial-scale=1.0">
     <title>Attributions</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon-esi.ico">
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="icon" type="image/x-icon" href="favicon-esi.ico">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
 </head>
 <body>
     <div id="app">
         <h1>Attributions</h1>
+
         <div>
-            <input ref="input" :value="text" @input="onInput" placeholder="Tapez ici">
+            <input v-model="query" ref="input" placeholder="Your filter">
         </div>
 
         <div style="overflow-x:auto;">
-            <table id="customers">
+            <table id="myTable">
                 <tr>
                     <th class="w50">Cours</th>
                     <th class="w25">Sigle UE</th>
                     <th class="w25">Sigle Prof</th>
                 </tr>
-                <template v-for="data in datas" :key="data">
-                    <tr v-if="match(data)">
+                <template v-for="data in vdatas" :key="data">
+                    <tr >
                         <td>{{ data[0] }}</td>
                         <td>{{ data[1] }}</td>
                         <td>{{ data[2] }}</td>
@@ -40,10 +41,8 @@
 
             data() {
                 return {
-                    message: "Hello world",
-                    text: '',
                     datas : [],
-                    pattern : new RegExp('.*')
+                    query : ""
                 }
             },
             mounted() {
@@ -56,25 +55,24 @@
                     fetch(url)
                         .then(response => response.text())
                         .then(contents => {
-                            console.log(contents);
-                            // Traitez le contenu du fichier CSV ici
                             const lines = contents.split('\n');
                             this.datas = lines.map((line) => line.split(','));
                         })
                         .catch(error => {
-                            console.error('Une erreur s\'est produite lors de la récupération du fichier CSV :', error);
+                            console.error('Error with CSV file :', error);
                         });
 
                     this.$refs.input.focus();
                 },
-                onInput(e) {
-                    this.text = e.target.value;
-                    this.pattern = new RegExp(this.text, 'i');               
-                    console.log("value : " + e.target.value);
-                    console.log(this.pattern);
+            },
+            computed: {
+                vdatas() {
+                    return this.datas.filter((item) => {
+                        return this.pattern.test(item);
+                    });
                 },
-                match(data) {
-                    return this.pattern.test(data);
+                pattern() {
+                    return new RegExp(this.query, 'i');
                 }
             }
         });
