@@ -72,7 +72,11 @@
                     });
                 },
                 pattern() {
-                    return new RegExp(this.query, 'i');
+                    try {
+                        return new RegExp(this.query, 'i');
+                    } catch(error) {
+                        return new RegExp("a^");
+                    };
                 }
             }
         });
@@ -81,6 +85,11 @@
     </script>
 
     <style>
+        body {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
         table {
             width: 100%;
             max-width: 700px;
