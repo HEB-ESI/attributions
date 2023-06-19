@@ -75,7 +75,8 @@
                     try {
                         return new RegExp(this.query, 'i');
                     } catch(error) {
-                        return new RegExp("a^");
+                        console.error('error :', error);
+                        return new RegExp('a^');
                     };
                 }
             }
@@ -86,9 +87,9 @@
 
     <style>
         body {
-            width: 100%;
+            width: 96%;
             padding: 0;
-            margin: 0;
+            margin: 2%;
         }
         table {
             width: 100%;

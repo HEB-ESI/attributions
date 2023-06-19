@@ -209,9 +209,9 @@ DEV1T Développement - Théorie I,Q1AIR A11,HAL
 DEV1T Développement - Théorie I,Q1AIR A12,BIS
 DEV1T Développement - Théorie I,Q1AIR A13,BIS
 DEV1T Développement - Théorie I,Q1AIR A21,DBO
-DEV1T Développement - Théorie I,Q1AIR A22,3PI
+DEV1T Développement - Théorie I,Q1AIR A22,ABS
 DEV1T Développement - Théorie I,Q1AIR A23,CLG
-DEV1T Développement - Théorie I,Q1AIR A31,3PI
+DEV1T Développement - Théorie I,Q1AIR A31,ABS
 DEV1T Développement - Théorie I,Q1AIR A32,NRI
 DEV1T Développement - Théorie I,Q1AIR A33,SRE
 DEV1T Développement - Théorie I,Q1AIR A34,NRI
@@ -420,7 +420,7 @@ Exam Spéc Sécurité,Comp. Exams,MAP
 AVA&UIS,Master CS,JDS
 Conseil d'administration,Conseils,PBT
 SSD&WS,Master CS,ABS
-Comité gestion pgm,Master CS,2PI
+Comité gestion pgm,Master CS,JDS
 SYS3,Resp. UE,MBA
 IXVR5,Resp. UE,EGR
 RELI5,Resp. UE,EGR
@@ -537,7 +537,7 @@ Report 2022-2023,Réd.Charge,MBA
 Stage+TFE (1),Stages,YVO
 Stage+TFE (4),Stages,PMA
 Séminaires méthodologiques court,SAR,LMA
-MLF,SAR,ZZZ
+MLF,SAR,LLO
 Stage+TFE (3),Stages,ABS
 Complement DEV1,SAR,HAL
 Complement DEV1,SAR,SRE
@@ -590,17 +590,16 @@ Stage+TFE (2),Stages,BIS
 Stage+TFE (1),Stages,MCD
 Stage+TFE (2),Stages,GBA
 Report 2022-2023,Réd.Charge,SRV
-Report 2023-2024,Réd.Charge,1PI
+Report 2023-2024,Réd.Charge,ARO
 Stage+TFE (3) - Eramsus,Stages,SRV
-Séminaires méthodologiques long 1,SAR,ZZZ
-Séminaires méthodologiques long 2,SAR,ZZZ
-Séminaires méthodologiques court,SAR,ZZZ
+Séminaires méthodologiques long 1,SAR,LLO
+Séminaires méthodologiques long 2,SAR,LLO
+Séminaires méthodologiques court,SAR,LLO
 INT2,Resp. UE,DNA
-Bureautique à l'ISES,HE2B,ZZZ
-Stage+TFE (4),Stages,ZZZ
+Stage+TFE (X),Stages,ZZZ
 Correction/report,Réd.Charge,CLG
 Stage+TFE (1),Stages,TNI
 Stage+TFE (1),Stages,MBR
 EXP1,Resp. UE,DBO
 Projet de recherche HE2B 23/24,Recherche,GBA
-Stage+TFE (1),Stages,3PI
+Stage+TFE (1),Stages,ABS
