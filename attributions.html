@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=400, initial-scale=1.0">
+    <title>Attributions</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon-esi.ico">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+    <div id="app">
+        <h1>Attributions</h1>
+        <div>
+            <input ref="input" :value="text" @input="onInput" placeholder="Tapez ici">
+        </div>
+
+        <div style="overflow-x:auto;">
+            <table id="customers">
+                <tr>
+                    <th class="w50">Cours</th>
+                    <th class="w25">Sigle UE</th>
+                    <th class="w25">Sigle Prof</th>
+                </tr>
+                <template v-for="data in datas" :key="data">
+                    <tr v-if="match(data)">
+                        <td>{{ data[0] }}</td>
+                        <td>{{ data[1] }}</td>
+                        <td>{{ data[2] }}</td>
+                    </tr>
+                </template>
+            </table>
+        </div>
+
+    </div>
+    
+    <script type="module">
+        
+        const app = Vue.createApp({ 
+
+            data() {
+                return {
+                    message: "Hello world",
+                    text: '',
+                    datas : [],
+                    pattern : new RegExp('.*')
+                }
+            },
+            mounted() {
+                this.initialize();
+            },
+            methods: {
+                initialize() {
+                    const url = 'datas.csv'; // change me
+
+                    fetch(url)
+                        .then(response => response.text())
+                        .then(contents => {
+                            console.log(contents);
+                            // Traitez le contenu du fichier CSV ici
+                            const lines = contents.split('\n');
+                            this.datas = lines.map((line) => line.split(','));
+                        })
+                        .catch(error => {
+                            console.error('Une erreur s\'est produite lors de la récupération du fichier CSV :', error);
+                        });
+
+                    this.$refs.input.focus();
+                },
+                onInput(e) {
+                    this.text = e.target.value;
+                    this.pattern = new RegExp(this.text, 'i');               
+                    console.log("value : " + e.target.value);
+                    console.log(this.pattern);
+                },
+                match(data) {
+                    return this.pattern.test(data);
+                }
+            }
+        });
+        
+        app.mount('#app');
+    </script>
+
+    <style>
+        table {
+            width: 100%;
+            max-width: 700px;
+            border: 1px solid dimgrey;
+            border-collapse: collapse;
+            text-align: left;
+            vertical-align: middle;
+        }
+        td, th {
+            border: 1px solid;
+            padding: 0.3rem;
+        }
+        tr:hover {background-color: #ddd;}
+        tr:nth-child(even) {background-color: #f2f2f2;} 
+        th {
+            background-color: #4ec6e0;
+            color: white;
+            border: 1px solid dimgrey;
+        }
+        .w50 {
+            width:50%;
+        }
+        .w25 {
+            width: 25%;
+        }
+        input {
+            width: 100%;
+            max-width: 700px;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border-radius: 4px;
+            outline: none;
+            background-color: white;
+            background-image: url('searchicon.png');
+            background-position: 0px -2px;
+            background-repeat: no-repeat;
+            padding-left: 40px;
+            font-size: 1.3rem;
+        }
+    </style>
+</body>
+</html>
