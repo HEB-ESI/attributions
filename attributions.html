@@ -8,38 +8,14 @@
     <title>Attributions</title>
     <link rel="icon" type="image/x-icon" href="favicon-esi.ico">
     <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <div id="app">
+    <div>
         <h1>Attributions HE2B-ESI au 20 juin 2023</h1>
 
-        <div>
-            <input v-model="query" ref="input" placeholder="Rechercher ...">
-        </div>
-
-        <button @click="e => exportTableToCSV('tableau')">Exporter le résultat en CSV</button>
-        <p>
-            {{ vdatas.length }} {{ vdatas.length > 1 ? "résultats" : "résultat"}}
-        </p>
-        <div style="overflow-x:auto;">
-            <table id="myTable">
-                <tr>
-                    <th class="w60">{{ headers[0] }}</th>
-                    <th class="w20">{{ headers[1] }}</th>
-                    <th class="w10">{{ headers[2] }}</th>
-                    <th class="w10">{{ headers[3] }}</th>
-                </tr>
-                <tbody>
-                    <tr v-for="data in vdatas" :key="data" :class="{ mission: data[4] }">
-                        <td>{{ data[0] }}</td>
-                        <td>{{ data[1] }}</td>
-                        <td>{{ data[2] }}</td>
-                        <td>{{ data[3] }}</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+        <div id="app"></div>
 
         <div class="legend">
             <p>
@@ -56,162 +32,11 @@
     </div>
     
     <script type="module">
+        import App from './App.js'
         
-        const app = Vue.createApp({ 
-            data() {
-                return {
-                    headers : ["Quoi ?", "Pour ?", "Qui ?", "Quand ?", null], // null means "do not show/export"
-                    datas : [],
-                    query : ""
-                }
-            },
-            mounted() {
-                this.initialize();
-            },
-            methods: {
-                exportTableToCSV(filename) {
-                    // Créer un lien de téléchargement et le télécharger
-                    const csvContent = "data:text/csv;charset=utf-8," 
-                    + [this.headers, ...this.vdatas]
-                    .map(l => l
-                                .filter((val, index) => this.headers[index] != null) // filter columns not intended for export
-                                .join(","))
-                    .join("\n");
-
-                    const link = document.createElement("a");
-                    link.setAttribute("href", encodeURI(csvContent));
-                    link.setAttribute("download", filename + ".csv");
-                    link.click();
-                },
-                addData(fileName, isMission) {
-                    fetch(fileName)
-                        .then(response => response.text())
-                        .then(contents => {
-                            const lines = contents.split('\n');
-                            let newdata = lines
-                                .filter(l => !l.match(/---/)) // remove line separators (thank you, MS Access)
-                                .filter(l => !l.match('ahcLibelle')) // remove line headers
-                                .filter(l => !l.match('acActivite'))
-                                .filter(l => !!l) // remove final empty line
-                                .map((line) =>
-                                    [
-                                        ...line
-                                            .split('|')
-                                            .map(s => s.trim())
-                                            .slice(1, 5),
-                                        isMission
-                                    ]);
-                            this.datas = [...this.datas, ...newdata];
-                        })
-                        .catch(error => {
-                            console.error('Une erreur s\'est produite lors de la récupération du fichier :', error);
-                        });
-                },
-                initialize() {
-                     this.addData('data/Cours.txt', false)
-                     this.addData('data/Missions.txt', true)
-                     this.$refs.input.focus();
-                },
-            },
-            computed: {
-                pattern() {
-                    try {
-                        return new RegExp(this.query, 'i');
-                    } catch(error) {
-                        console.error('error :', error);
-                        return new RegExp('a^');
-                    };
-                },
-                vdatas() {
-                    return this.datas.filter((item) => {
-                        return this.pattern.test(item);
-                    });
-                }
-            }
-        });
-        
-        app.mount('#app');
+        Vue.createApp(App).mount('#app');
     </script>
-
-    <style>
-     body {
-         width: 96%;
-         padding: 0;
-         margin: 2%;
-     }
-     .mission td, .mission {
-         background-color: rgba(242, 0, 0, 0.1);
-     }
-     
-     table {
-         width: 100%;
-         max-width: 700px;
-         border: 1px solid dimgrey;
-         border-collapse: collapse;
-         text-align: left;
-         vertical-align: middle;
-     }
-     
-     td,
-     th {
-         border: 1px solid;
-         padding: 0.3rem;
-     }
-     
-     tr:nth-child(even) {
-         background-color: #f2f2f2;
-     }
-     
-     tr:hover {
-         background-color: #ddd;
-     }
-     
-     
-     th {
-         background-color: #4ec6e0;
-         color: white;
-         border: 1px solid dimgrey;
-     }
-     
-     .w60 {
-         width: 60%;
-     }
-
-     .w20 {
-         width: 20%;
-     }
-     
-     .w15 {
-         width: 15%;
-     }
-
-     .w10 {
-         width: 10%;
-     }
-     
-     input {
-         width: 100%;
-         max-width: 700px;
-         padding: 12px 20px;
-         margin: 8px 0;
-         box-sizing: border-box;
-         border-radius: 4px;
-         outline: none;
-         background-color: white;
-         background-image: url('searchicon.png');
-         background-position: 0px -2px;
-         background-repeat: no-repeat;
-         padding-left: 40px;
-         font-size: 1.3rem;
-     }
-     .legend {
-         width: 170px;
-     }
-     .legend p {
-         margin-bottom: 0;
-     }
-    </style>
-  
+ 
 </body>
 
 </html>
