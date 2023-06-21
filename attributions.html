@@ -74,7 +74,7 @@
                     const csvContent = "data:text/csv;charset=utf-8," 
                     + [this.headers, ...this.vdatas]
                     .map(l => l
-                                .filter((val, index) => this.headers[index] != null)
+                                .filter((val, index) => this.headers[index] != null) // filter columns not intended for export
                                 .join(","))
                     .join("\n");
 
