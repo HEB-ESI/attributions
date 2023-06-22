@@ -9,16 +9,17 @@ export default {
         </div>
 
         <button @click="e => exportTableToCSV('tableau')">Exporter le résultat en CSV</button>
+        
         <p>
             {{ vdatas.length }} {{ vdatas.length > 1 ? "résultats" : "résultat"}}
         </p>
         <div style="overflow-x:auto;">
             <table id="myTable">
                 <tr>
-                    <th class="w60">{{ headers[0] }}</th>
+                    <th class="w50">{{ headers[0] }}</th>
                     <th class="w20">{{ headers[1] }}</th>
-                    <th class="w10">{{ headers[2] }}</th>
-                    <th class="w10">{{ headers[3] }}</th>
+                    <th class="w15">{{ headers[2] }}</th>
+                    <th class="w15">{{ headers[3] }}</th>
                 </tr>
                 <tbody>
                     <tr v-for="data in vdatas" :key="data" :class="{ mission: data[4] }">

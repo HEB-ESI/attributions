@@ -41,6 +41,10 @@ th {
     width: 60%;
 }
 
+.w50 {
+    width: 50%;
+}
+
 .w20 {
     width: 20%;
 }
@@ -73,4 +77,15 @@ input {
 }
 .legend p {
     margin-bottom: 0;
+}
+button {
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    transition-duration: .4s;
+    border-radius: 3px;
+    border: 1px solid #4ec6e0;
+}
+
+button:hover {
+    background-color: #4ec6e0;
 }
