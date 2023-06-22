@@ -1,793 +1,793 @@
-XX--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 |                         acActivite                         |     acGroupe      |       prof        |       Quand       |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A11         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A11         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A11         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A11         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A11         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A11         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A111        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A111        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A111        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A111        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A112        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A112        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A112        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A112        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A12         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A12         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A12         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A12         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A12         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A12         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A121        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A121        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A121        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A121        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A122        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A122        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A122        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A122        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A13         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A13         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A13         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A13         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A13         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A13         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A131        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A131        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A131        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A131        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A132        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A132        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A132        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A132        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A21         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A21         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A21         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A21         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A21         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A21         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A211        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A211        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A211        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A211        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A212        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A212        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A212        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A212        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A22         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A22         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A22         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A22         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A22         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A22         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A221        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A221        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A221        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A221        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A222        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A222        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A222        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A222        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A23         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A23         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A23         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A23         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A23         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A23         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A231        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A231        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A231        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A231        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A232        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A232        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A232        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A232        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTM1  Introduction aux métiers                            | Q1AIR A3          | XX               | Q1                |
+| INTM1  Introduction aux métiers                            | Q1AIR A3          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR1  Introduction au Réseau                              | Q1AIR A3          | XX               | Q1                |
+| INTR1  Introduction au Réseau                              | Q1AIR A3          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTS1  Introduction à la sécurité                          | Q1AIR A3          | XX               | Q1                |
+| INTS1  Introduction à la sécurité                          | Q1AIR A3          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC1  Architecture des ordinateurs I                       | Q1AIR A3          | XX               | Q1                |
+| ARC1  Architecture des ordinateurs I                       | Q1AIR A3          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A3          | XX               | Q1                |
+| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A3          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A31         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A31         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A31         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A31         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A31         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A31         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A311        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A311        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A311        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A311        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A312        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A312        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A312        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A312        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A32         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A32         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A32         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A32         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A32         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A32         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A321        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A321        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A321        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A321        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A322        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A322        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A322        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A322        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A33         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A33         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A33         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A33         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A33         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A33         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A331        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A331        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A331        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A331        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A332        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A332        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A332        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A332        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2T  Architecture des ordinateurs II - Théorie           | Q2AIR B1          | XX               | Q2                |
+| ARC2T  Architecture des ordinateurs II - Théorie           | Q2AIR B1          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2T  Donées (Base de)  - Théorie II                      | Q2AIR B1          | XX               | Q2                |
+| DON2T  Donées (Base de)  - Théorie II                      | Q2AIR B1          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2T  Développement - Théorie II                          | Q2AIR B1          | XX               | Q2                |
+| DEV2T  Développement - Théorie II                          | Q2AIR B1          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2T  Web développement  - Théorie II                     | Q2AIR B1          | XX               | Q2                |
+| WEB2T  Web développement  - Théorie II                     | Q2AIR B1          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B11         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B11         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B11         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B11         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B11         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B11         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B111        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B111        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B111        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B111        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B111        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B111        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B111        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B111        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B112        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B112        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B112        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B112        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B112        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B112        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B112        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B112        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B12         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B12         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B12         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B12         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B12         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B12         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B121        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B121        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B121        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B121        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B121        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B121        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B121        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B121        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B122        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B122        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B122        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B122        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B122        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B122        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B122        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B122        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2T  Architecture des ordinateurs II - Théorie           | Q2AIR B2          | XX               | Q2                |
+| ARC2T  Architecture des ordinateurs II - Théorie           | Q2AIR B2          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2T  Donées (Base de)  - Théorie II                      | Q2AIR B2          | XX               | Q2                |
+| DON2T  Donées (Base de)  - Théorie II                      | Q2AIR B2          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2T  Développement - Théorie II                          | Q2AIR B2          | XX               | Q2                |
+| DEV2T  Développement - Théorie II                          | Q2AIR B2          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2T  Web développement  - Théorie II                     | Q2AIR B2          | XX               | Q2                |
+| WEB2T  Web développement  - Théorie II                     | Q2AIR B2          | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B21         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B21         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B21         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B21         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B21         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B21         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B211        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B211        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B211        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B211        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B211        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B211        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B211        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B211        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B212        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B212        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B212        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B212        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B212        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B212        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B212        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B212        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B22         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B22         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B22         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B22         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B22         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B22         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B221        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B221        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B221        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B221        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B221        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B221        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B221        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B221        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B222        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B222        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B222        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B222        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B222        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B222        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B222        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B222        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| PRJ  Gestion de projet                                     | Q5G E1            | XX               | Q5                |
+| PRJ  Gestion de projet                                     | Q5G E1            | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ERP  Progiciel de gestion intégré (ERP)                    | Q5G E1            | XX               | Q5                |
+| ERP  Progiciel de gestion intégré (ERP)                    | Q5G E1            | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| MOBL  Développement mobile                                 | Q5G E11           | XX               | Q5                |
+| MOBL  Développement mobile                                 | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ORG  Organisation des entreprises                          | Q5G E11           | XX               | Q5                |
+| ORG  Organisation des entreprises                          | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SIM  Simulation entrepreneuriale                           | Q5G E11           | XX               | Q5                |
+| SIM  Simulation entrepreneuriale                           | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| PRJL  Laboratoire de Gestion de projet                     | Q5G E11           | XX               | Q5                |
+| PRJL  Laboratoire de Gestion de projet                     | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Applications d'entreprise                             | Q5G E11           | XX               | Q5                |
+| WEB  Applications d'entreprise                             | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYS  Système d'exploitation III                            | Q5G E11           | XX               | Q5                |
+| SYS  Système d'exploitation III                            | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ERPL  Labo de dév. Collaboratif                            | Q5G E11           | XX               | Q5                |
+| ERPL  Labo de dév. Collaboratif                            | Q5G E11           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ORG  Organisation des entreprises                          | Q5G E12           | XX               | Q5                |
+| ORG  Organisation des entreprises                          | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| MOBL  Développement mobile                                 | Q5G E12           | XX               | Q5                |
+| MOBL  Développement mobile                                 | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SIM  Simulation entrepreneuriale                           | Q5G E12           | XX               | Q5                |
+| SIM  Simulation entrepreneuriale                           | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| PRJL  Laboratoire de Gestion de projet                     | Q5G E12           | XX               | Q5                |
+| PRJL  Laboratoire de Gestion de projet                     | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Labo per. des données IV                             | Q5G E12           | XX               | Q5                |
+| PERL  Labo per. des données IV                             | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYS  Système d'exploitation III                            | Q5G E12           | XX               | Q5                |
+| SYS  Système d'exploitation III                            | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ERPL  Labo de dév. Collaboratif                            | Q5G E12           | XX               | Q5                |
+| ERPL  Labo de dév. Collaboratif                            | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Applications d'entreprise                             | Q5G E12           | XX               | Q5                |
+| WEB  Applications d'entreprise                             | Q5G E12           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| AUT  Automates programmables II                            | Q5I E24           | XX               | Q5                |
+| AUT  Automates programmables II                            | Q5I E24           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| IEI  Interfaçage d'équipements industriels                 | Q5I E24           | XX               | Q5                |
+| IEI  Interfaçage d'équipements industriels                 | Q5I E24           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ROB2  Robotique II                                         | Q5I E24           | XX               | Q5                |
+| ROB2  Robotique II                                         | Q5I E24           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| TRI  Traitement de l'image                                 | Q5I E24           | XX               | Q5                |
+| TRI  Traitement de l'image                                 | Q5I E24           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| PIA  Projet Intelligence artificielle                      | Q5I E24           | XX               | Q5                |
+| PIA  Projet Intelligence artificielle                      | Q5I E24           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ITRL  Lab. d'interconnexion  réseaux                       | Q5R E21           | XX               | Q5                |
+| ITRL  Lab. d'interconnexion  réseaux                       | Q5R E21           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| VOIP  Voice over IP                                        | Q5R E21           | XX               | Q5                |
+| VOIP  Voice over IP                                        | Q5R E21           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| AIRL  Lab. d'archi. et ingé.  Réseaux                      | Q5R E21           | XX               | Q5                |
+| AIRL  Lab. d'archi. et ingé.  Réseaux                      | Q5R E21           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGRW2  Adm. et ges. Réseaux Win (II)                       | Q5R E21           | XX               | Q5                |
+| AGRW2  Adm. et ges. Réseaux Win (II)                       | Q5R E21           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SECL  Labo Sécurité                                        | Q5R E21           | XX               | Q5                |
+| SECL  Labo Sécurité                                        | Q5R E21           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ORG  Organisation des entreprises                          | Q5IR E2           | XX               | Q5                |
+| ORG  Organisation des entreprises                          | Q5IR E2           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Labo Analyse III                                     | Q5IR E21          | XX               | Q5                |
+| ANLL  Labo Analyse III                                     | Q5IR E21          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLC  Ateliers Logiciels II (C/C++)                        | Q5IR E21          | XX               | Q5                |
+| ATLC  Ateliers Logiciels II (C/C++)                        | Q5IR E21          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLj  Ateliers Logiciels III (Java)                        | Q5IR E21          | XX               | Q5                |
+| ATLj  Ateliers Logiciels III (Java)                        | Q5IR E21          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| VEI  Veilles technologiques bim2                           | Q5GIR E           | XX               | Q5                |
+| VEI  Veilles technologiques bim2                           | Q5GIR E           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| VEI  Veilles technologiques bim1                           | Q5GIR E           | XX               | Q5                |
+| VEI  Veilles technologiques bim1                           | Q5GIR E           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| TEX  Exp., com  & prép. au stage                           | Q5GIR E1          | XX               | Q5                |
+| TEX  Exp., com  & prép. au stage                           | Q5GIR E1          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| TEX  Exp., com  & prép. au stage                           | Q5GIR E12         | XX               | Q5                |
+| TEX  Exp., com  & prép. au stage                           | Q5GIR E12         | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| TEX  Exp., com  & prép. au stage                           | Q5GIR E2          | XX               | Q5                |
+| TEX  Exp., com  & prép. au stage                           | Q5GIR E2          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B23         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B23         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B23         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B23         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B23         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B23         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B231        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B231        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B231        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B231        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B231        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B231        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B231        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B231        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B232        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B232        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B232        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B232        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B232        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B232        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B232        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B232        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| RELI5  Elec., méca. et prog. Appliquée                     | Q5IR E24          | XX               | Q5                |
+| RELI5  Elec., méca. et prog. Appliquée                     | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| STR  Système d'exploitation TR                             | Q5IR E24          | XX               | Q5                |
+| STR  Système d'exploitation TR                             | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Labo Analyse III                                     | Q5IR E24          | XX               | Q5                |
+| ANLL  Labo Analyse III                                     | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLC  Ateliers Logiciels II (C/C++)                        | Q5IR E24          | XX               | Q5                |
+| ATLC  Ateliers Logiciels II (C/C++)                        | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLj  Ateliers Logiciels III (Java)                        | Q5IR E24          | XX               | Q5                |
+| ATLj  Ateliers Logiciels III (Java)                        | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SCI  Eléments de sécurité IT                               | Q5IR E24          | XX               | Q5                |
+| SCI  Eléments de sécurité IT                               | Q5IR E24          | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPR  Complément réseaux (sp)                               | SEC4 S11          | XX               | SE                |
+| CPR  Complément réseaux (sp)                               | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| FSI  Fondements de la séc. de l'info.                      | SEC4 S11          | XX               | SE                |
+| FSI  Fondements de la séc. de l'info.                      | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| TRC  Techno. réseaux et commutation                        | SEC4 S11          | XX               | SE                |
+| TRC  Techno. réseaux et commutation                        | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPA  Complément application                                | SEC4 S11          | XX               | SE                |
+| CPA  Complément application                                | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| ASL  Adm. et sécurité Unix-Linux                           | SEC4 S11          | XX               | SE                |
+| ASL  Adm. et sécurité Unix-Linux                           | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| ASW  Adm. et sécurité Windows                              | SEC4 S11          | XX               | SE                |
+| ASW  Adm. et sécurité Windows                              | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| ASA  Archi. des sys. à séc. d'accès                        | SEC4 S11          | XX               | SE                |
+| ASA  Archi. des sys. à séc. d'accès                        | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| RAD  Routage et accès distant                              | SEC4 S11          | XX               | SE                |
+| RAD  Routage et accès distant                              | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| CRY  App. Crypto. et t. sécurisées                         | SEC4 S11          | XX               | SE                |
+| CRY  App. Crypto. et t. sécurisées                         | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| DCF  Dév. de code fiable et sécurisé                       | SEC4 S11          | XX               | SE                |
+| DCF  Dév. de code fiable et sécurisé                       | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| TAV  Forensics : techniques avancées                       | SEC4 S11          | XX               | SE                |
+| TAV  Forensics : techniques avancées                       | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| DRO  Droit (sp)                                            | SEC4 S11          | XX               | SE                |
+| DRO  Droit (sp)                                            | SEC4 S11          | XXX               | SE                |
 --------------------------------------------------------------------------------------------------------------------------
-| ORG  Organisation des entreprises                          | Q5IR E1           | XX               | Q5                |
+| ORG  Organisation des entreprises                          | Q5IR E1           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ITR  Interconnexion de réseaux                             | Q5R E2            | XX               | Q5                |
+| ITR  Interconnexion de réseaux                             | Q5R E2            | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| AIR  Archi. et ingénierie des réseaux                      | Q5R E2            | XX               | Q5                |
+| AIR  Archi. et ingénierie des réseaux                      | Q5R E2            | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SEC  Sécurité                                              | Q5R E2            | XX               | Q5                |
+| SEC  Sécurité                                              | Q5R E2            | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANL  Analyse II                                            | Q3GIR C           | XX               | Q3                |
+| ANL  Analyse II                                            | Q3GIR C           | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYS  Systèmes d'exploitation II (Q3)                       | Q3GIR C           | XX               | Q3                |
+| SYS  Systèmes d'exploitation II (Q3)                       | Q3GIR C           | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPP  Cours de C/C++                                        | Q3GIR C1          | XX               | Q3                |
+| CPP  Cours de C/C++                                        | Q3GIR C1          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C111        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C111        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C111        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C111        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C111        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C111        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C112        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C112        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C112        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C112        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C112        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C112        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C211        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C211        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C211        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C211        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C211        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C211        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C212        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C212        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C212        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C212        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C212        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C212        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C223        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C223        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C223        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C223        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C223        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C223        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG  Algorithmique III                                     | Q3GIR C12         | XX               | Q3                |
+| ALG  Algorithmique III                                     | Q3GIR C12         | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C121        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C121        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I                                  | Q3GIR C121        | XX               | Q3                |
+| ATL  Ateliers logiciels I                                  | Q3GIR C121        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C121        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C121        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C121        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C121        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANLL  Laboratoire d'analyse II                             | Q3GIR C122        | XX               | Q3                |
+| ANLL  Laboratoire d'analyse II                             | Q3GIR C122        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I                                  | Q3GIR C122        | XX               | Q3                |
+| ATL  Ateliers logiciels I                                  | Q3GIR C122        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  I                              | Q3GIR C122        | XX               | Q3                |
+| CPPL  Laboratoire de C/C++  I                              | Q3GIR C122        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données II                          | Q3GIR C122        | XX               | Q3                |
+| PERL  Lab. de per. des données II                          | Q3GIR C122        | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPP  Cours de C/C++                                        | Q3GIR C2          | XX               | Q3                |
+| CPP  Cours de C/C++                                        | Q3GIR C2          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG  Algorithmique III                                     | Q3GIR C2          | XX               | Q3                |
+| ALG  Algorithmique III                                     | Q3GIR C2          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG  Algorithmique III                                     | Q3GIR C11         | XX               | Q3                |
+| ALG  Algorithmique III                                     | Q3GIR C11         | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PER  Persistance des données III                           | Q4GIR D           | XX               | Q4                |
+| PER  Persistance des données III                           | Q4GIR D           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYS  Systèmes d'exploitation II                            | Q4GIR D           | XX               | Q4                |
+| SYS  Systèmes d'exploitation II                            | Q4GIR D           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D111        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D111        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D112        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D112        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D211        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D211        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D212        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D212        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D223        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D223        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D121        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D121        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPPL  Laboratoire de C/C++  II                             | Q4GIR D122        | XX               | Q4                |
+| CPPL  Laboratoire de C/C++  II                             | Q4GIR D122        | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C211         | XX               | Q3                |
+| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C211         | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C212         | XX               | Q3                |
+| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C212         | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C223         | XX               | Q3                |
+| SYSL  Labo systèmes d'exp. II (Q3)                         | Q3IR C223         | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I.                                 | Q4IR D211         | XX               | Q4                |
+| ATL  Ateliers logiciels I.                                 | Q4IR D211         | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I.                                 | Q4IR D212         | XX               | Q4                |
+| ATL  Ateliers logiciels I.                                 | Q4IR D212         | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I.                                 | Q4IR D223         | XX               | Q4                |
+| ATL  Ateliers logiciels I.                                 | Q4IR D223         | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| PHSL  Physique du signal (labo)                            | Q3R C21           | XX               | Q3                |
+| PHSL  Physique du signal (labo)                            | Q3R C21           | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| LANL  Laboratoire de LAN                                   | Q3R C211          | XX               | Q3                |
+| LANL  Laboratoire de LAN                                   | Q3R C211          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| LANL  Laboratoire de LAN                                   | Q3R C212          | XX               | Q3                |
+| LANL  Laboratoire de LAN                                   | Q3R C212          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| LAN  LAN                                                   | Q3R C2            | XX               | Q3                |
+| LAN  LAN                                                   | Q3R C2            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| XML  Intro à XML 1er quadri                                | Q3R C2            | XX               | Q3                |
+| XML  Intro à XML 1er quadri                                | Q3R C2            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| DIN  Développement Internet (Q3)                           | Q4R D21           | XX               | Q4                |
+| DIN  Développement Internet (Q3)                           | Q4R D21           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| XML  Intro à XML                                           | Q4R D21           | XX               | Q4                |
+| XML  Intro à XML                                           | Q4R D21           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| RSM  Réseaux de sans fil et de mobile                      | Q4R D21           | XX               | Q4                |
+| RSM  Réseaux de sans fil et de mobile                      | Q4R D21           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WAN  Cours de WAN                                          | Q4R D21           | XX               | Q4                |
+| WAN  Cours de WAN                                          | Q4R D21           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| DIN  Développement Internet                                | Q4R D21           | XX               | Q4                |
+| DIN  Développement Internet                                | Q4R D21           | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGRW  Adm. et ges. réseaux I (Windows)                     | Q4R D211          | XX               | Q4                |
+| AGRW  Adm. et ges. réseaux I (Windows)                     | Q4R D211          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| RSML  Labo sans fil et de mobile                           | Q4R D211          | XX               | Q4                |
+| RSML  Labo sans fil et de mobile                           | Q4R D211          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGRL  Adm. et ges. réseaux I (Linux)                       | Q4R D211          | XX               | Q4                |
+| AGRL  Adm. et ges. réseaux I (Linux)                       | Q4R D211          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WANL  Laboratoire de WAN                                   | Q4R D211          | XX               | Q4                |
+| WANL  Laboratoire de WAN                                   | Q4R D211          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGRW  Adm. et ges. réseaux I (Windows)                     | Q4R D212          | XX               | Q4                |
+| AGRW  Adm. et ges. réseaux I (Windows)                     | Q4R D212          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| RSML  Labo sans fil et de mobile                           | Q4R D212          | XX               | Q4                |
+| RSML  Labo sans fil et de mobile                           | Q4R D212          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGRL  Adm. et ges. réseaux I (Linux)                       | Q4R D212          | XX               | Q4                |
+| AGRL  Adm. et ges. réseaux I (Linux)                       | Q4R D212          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WANL  Laboratoire de WAN                                   | Q4R D212          | XX               | Q4                |
+| WANL  Laboratoire de WAN                                   | Q4R D212          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AUT  Automates programmables I                             | Q3I C223          | XX               | Q3                |
+| AUT  Automates programmables I                             | Q3I C223          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PER  Persistance des données II                            | Q3I C             | XX               | Q3                |
+| PER  Persistance des données II                            | Q3I C             | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PHY  Physique d'acquisition                                | Q4I D223          | XX               | Q4                |
+| PHY  Physique d'acquisition                                | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| VAN  Visualisation - analyse                               | Q4I D223          | XX               | Q4                |
+| VAN  Visualisation - analyse                               | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AMI  Applications sur sys. EXXrqués                        | Q4I D223          | XX               | Q4                |
+| AMI  Applications sur sys. EXXrqués                        | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| AGR  Adm. et ges. Réseaux                                  | Q4I D223          | XX               | Q4                |
+| AGR  Adm. et ges. Réseaux                                  | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| IOT  Réseaux IOT                                           | Q4I D223          | XX               | Q4                |
+| IOT  Réseaux IOT                                           | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| RLI  Réseaux locaux et industriels                         | Q4I D223          | XX               | Q4                |
+| RLI  Réseaux locaux et industriels                         | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| TRI  Traitement de l'image                                 | Q4I D223          | XX               | Q4                |
+| TRI  Traitement de l'image                                 | Q4I D223          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I                                  | Q3G C111          | XX               | Q3                |
+| ATL  Ateliers logiciels I                                  | Q3G C111          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels I                                  | Q3G C112          | XX               | Q3                |
+| ATL  Ateliers logiciels I                                  | Q3G C112          | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| CAI  Com. anglophone de l'IT III                           | Q3G C1            | XX               | Q3                |
+| CAI  Com. anglophone de l'IT III                           | Q3G C1            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| DRO  Droit                                                 | Q3G C1            | XX               | Q3                |
+| DRO  Droit                                                 | Q3G C1            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PHI  Philo ou Ethique                                      | Q3G C1            | XX               | Q3                |
+| PHI  Philo ou Ethique                                      | Q3G C1            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Développement Web II (Q3)                             | Q3G C1            | XX               | Q3                |
+| WEB  Développement Web II (Q3)                             | Q3G C1            | XXX               | Q3                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données III                         | Q4G D111          | XX               | Q4                |
+| PERL  Lab. de per. des données III                         | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPT  Comptabilité de gestion                               | Q4G D111          | XX               | Q4                |
+| CPT  Comptabilité de gestion                               | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels II                                 | Q4G D111          | XX               | Q4                |
+| ATL  Ateliers logiciels II                                 | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Développement Web II                                  | Q4G D111          | XX               | Q4                |
+| WEB  Développement Web II                                  | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II                              | Q4G D111          | XX               | Q4                |
+| SYSL  Labo systèmes d'exp. II                              | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPRL  Lab. de Compléments réseaux                          | Q4G D111          | XX               | Q4                |
+| CPRL  Lab. de Compléments réseaux                          | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SECL  Labo Sécurité                                        | Q4G D111          | XX               | Q4                |
+| SECL  Labo Sécurité                                        | Q4G D111          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SECL  Labo Sécurité                                        | Q4G D112          | XX               | Q4                |
+| SECL  Labo Sécurité                                        | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données III                         | Q4G D112          | XX               | Q4                |
+| PERL  Lab. de per. des données III                         | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPT  Comptabilité de gestion                               | Q4G D112          | XX               | Q4                |
+| CPT  Comptabilité de gestion                               | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels II                                 | Q4G D112          | XX               | Q4                |
+| ATL  Ateliers logiciels II                                 | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Développement Web II                                  | Q4G D112          | XX               | Q4                |
+| WEB  Développement Web II                                  | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II                              | Q4G D112          | XX               | Q4                |
+| SYSL  Labo systèmes d'exp. II                              | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPRL  Lab. de Compléments réseaux                          | Q4G D112          | XX               | Q4                |
+| CPRL  Lab. de Compléments réseaux                          | Q4G D112          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II                              | Q4G D113          | XX               | Q4                |
+| SYSL  Labo systèmes d'exp. II                              | Q4G D113          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ECO  Economie générale                                     | Q4G D1            | XX               | Q4                |
+| ECO  Economie générale                                     | Q4G D1            | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ERG  Ergonomie du logiciel                                 | Q4G D1            | XX               | Q4                |
+| ERG  Ergonomie du logiciel                                 | Q4G D1            | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPR  Compléments réseaux                                   | Q4G D1            | XX               | Q4                |
+| CPR  Compléments réseaux                                   | Q4G D1            | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SEC  Sécurité                                              | Q4G D1            | XX               | Q4                |
+| SEC  Sécurité                                              | Q4G D1            | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG2  Algorithmique II                                     | Q2AIR B13         | XX               | Q2                |
+| ALG2  Algorithmique II                                     | Q2AIR B13         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG2  Anglais 2                                            | Q2AIR B13         | XX               | Q2                |
+| ANG2  Anglais 2                                            | Q2AIR B13         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B13         | XX               | Q2                |
+| MAT2  Mathématiques II (Algèbre linéaire)                  | Q2AIR B13         | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B131        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B131        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B131        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B131        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B131        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B131        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B131        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B131        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B132        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B132        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B132        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B132        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B132        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B132        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B132        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B132        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLj  Ateliers Logiciels III (Java) (Q6)                   | Q6GIR F1          | XX               | Q6                |
+| ATLj  Ateliers Logiciels III (Java) (Q6)                   | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATLC  Ateliers Logiciels II (C/C++) (Q6)                   | Q6GIR F1          | XX               | Q6                |
+| ATLC  Ateliers Logiciels II (C/C++) (Q6)                   | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| MOBL  Développement mobile (Q6)                            | Q6GIR F1          | XX               | Q6                |
+| MOBL  Développement mobile (Q6)                            | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSXX  Système d'exploitation III (Q6)                     | Q6GIR F1          | XX               | Q6                |
+| SYSXX  Système d'exploitation III (Q6)                     | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| TEX'  Exp., com  & prép. au stage Q6                       | Q6GIR F1          | XX               | Q6                |
+| TEX'  Exp., com  & prép. au stage Q6                       | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Labo per. des données IV (Q6)                        | Q6GIR F1          | XX               | Q6                |
+| PERL  Labo per. des données IV (Q6)                        | Q6GIR F1          | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B133        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B133        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B133        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B133        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B133        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B133        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B133        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B133        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| PRJL  Laboratoire de Gestion de projet                     | Q5GIR E13         | XX               | Q5                |
+| PRJL  Laboratoire de Gestion de projet                     | Q5GIR E13         | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| SIM  Simulation entrepreneuriale                           | Q5GIR E13         | XX               | Q5                |
+| SIM  Simulation entrepreneuriale                           | Q5GIR E13         | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTM1  Introduction aux métiers                            | Q1AIR A1          | XX               | Q1                |
+| INTM1  Introduction aux métiers                            | Q1AIR A1          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR1  Introduction au Réseau                              | Q1AIR A1          | XX               | Q1                |
+| INTR1  Introduction au Réseau                              | Q1AIR A1          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTS1  Introduction à la sécurité                          | Q1AIR A1          | XX               | Q1                |
+| INTS1  Introduction à la sécurité                          | Q1AIR A1          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC1  Architecture des ordinateurs I                       | Q1AIR A1          | XX               | Q1                |
+| ARC1  Architecture des ordinateurs I                       | Q1AIR A1          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A1          | XX               | Q1                |
+| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A1          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTM1  Introduction aux métiers                            | Q1AIR A2          | XX               | Q1                |
+| INTM1  Introduction aux métiers                            | Q1AIR A2          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR1  Introduction au Réseau                              | Q1AIR A2          | XX               | Q1                |
+| INTR1  Introduction au Réseau                              | Q1AIR A2          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTS1  Introduction à la sécurité                          | Q1AIR A2          | XX               | Q1                |
+| INTS1  Introduction à la sécurité                          | Q1AIR A2          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC1  Architecture des ordinateurs I                       | Q1AIR A2          | XX               | Q1                |
+| ARC1  Architecture des ordinateurs I                       | Q1AIR A2          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A2          | XX               | Q1                |
+| EXP1T  Exploitation des systèmes - Théorie I               | Q1AIR A2          | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B113        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B113        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B113        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B113        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B113        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B113        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B113        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B113        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B123        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B123        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B123        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B123        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B123        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B123        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B123        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B123        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B213        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B213        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B213        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B213        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B213        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B213        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B213        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B213        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B223        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B223        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B223        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B223        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B223        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B223        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B223        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B223        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données III                         | Q4G D121          | XX               | Q4                |
+| PERL  Lab. de per. des données III                         | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPT  Comptabilité de gestion                               | Q4G D121          | XX               | Q4                |
+| CPT  Comptabilité de gestion                               | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels II                                 | Q4G D121          | XX               | Q4                |
+| ATL  Ateliers logiciels II                                 | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Développement Web II                                  | Q4G D121          | XX               | Q4                |
+| WEB  Développement Web II                                  | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II                              | Q4G D121          | XX               | Q4                |
+| SYSL  Labo systèmes d'exp. II                              | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPRL  Lab. de Compléments réseaux                          | Q4G D121          | XX               | Q4                |
+| CPRL  Lab. de Compléments réseaux                          | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SECL  Labo Sécurité                                        | Q4G D121          | XX               | Q4                |
+| SECL  Labo Sécurité                                        | Q4G D121          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SECL  Labo Sécurité                                        | Q4G D122          | XX               | Q4                |
+| SECL  Labo Sécurité                                        | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ATL  Ateliers logiciels II                                 | Q4G D122          | XX               | Q4                |
+| ATL  Ateliers logiciels II                                 | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPT  Comptabilité de gestion                               | Q4G D122          | XX               | Q4                |
+| CPT  Comptabilité de gestion                               | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| SYSL  Labo systèmes d'exp. II                              | Q4G D122          | XX               | Q4                |
+| SYSL  Labo systèmes d'exp. II                              | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Développement Web II                                  | Q4G D122          | XX               | Q4                |
+| WEB  Développement Web II                                  | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| PERL  Lab. de per. des données III                         | Q4G D122          | XX               | Q4                |
+| PERL  Lab. de per. des données III                         | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| CPRL  Lab. de Compléments réseaux                          | Q4G D122          | XX               | Q4                |
+| CPRL  Lab. de Compléments réseaux                          | Q4G D122          | XXX               | Q4                |
 --------------------------------------------------------------------------------------------------------------------------
-| ERPL  Labo de dév. Collaboratif                            | Q5G E13           | XX               | Q5                |
+| ERPL  Labo de dév. Collaboratif                            | Q5G E13           | XXX               | Q5                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Applications d'entreprise (b6)                        | Q6GIR F11         | XX               | Q6                |
+| WEB  Applications d'entreprise (b6)                        | Q6GIR F11         | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB  Applications d'entreprise (b6)                        | Q6GIR F12         | XX               | Q6                |
+| WEB  Applications d'entreprise (b6)                        | Q6GIR F12         | XXX               | Q6                |
 --------------------------------------------------------------------------------------------------------------------------
-| ALG1  Algorithmique I                                      | Q1AIR A34         | XX               | Q1                |
+| ALG1  Algorithmique I                                      | Q1AIR A34         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A34         | XX               | Q1                |
+| MAT1  Mathématiques I (Mathématiques discrètes)            | Q1AIR A34         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1T  Développement - Théorie I                           | Q1AIR A34         | XX               | Q1                |
+| DEV1T  Développement - Théorie I                           | Q1AIR A34         | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A341        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A341        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A341        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A341        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A342        | XX               | Q1                |
+| EXP1L  Exploitation des systèmes - Labo I                  | Q1AIR A342        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV1L  Développement - Labo I                              | Q1AIR A342        | XX               | Q1                |
+| DEV1L  Développement - Labo I                              | Q1AIR A342        | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B233        | XX               | Q2                |
+| ARC2L  Architecture des ordinateurs II - Labos             | Q2AIR B233        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B233        | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi3                      | Q2AIR B233        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DEV2L  Développement - Labo II                             | Q2AIR B233        | XX               | Q2                |
+| DEV2L  Développement - Labo II                             | Q2AIR B233        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| WEB2L  Web développement - Labo II                         | Q2AIR B233        | XX               | Q2                |
+| WEB2L  Web développement - Labo II                         | Q2AIR B233        | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG1  Anglais 1                                            | Q1AIR A11&12      | XX               | Q1                |
+| ANG1  Anglais 1                                            | Q1AIR A11&12      | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG1  Anglais 1                                            | Q1AIR A13&21      | XX               | Q1                |
+| ANG1  Anglais 1                                            | Q1AIR A13&21      | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG1  Anglais 1                                            | Q1AIR A22&23      | XX               | Q1                |
+| ANG1  Anglais 1                                            | Q1AIR A22&23      | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG1  Anglais 1                                            | Q1AIR A31&32      | XX               | Q1                |
+| ANG1  Anglais 1                                            | Q1AIR A31&32      | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| ANG1  Anglais 1                                            | Q1AIR A33&34      | XX               | Q1                |
+| ANG1  Anglais 1                                            | Q1AIR A33&34      | XXX               | Q1                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B111&12     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B111&12     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B111&12     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B111&12     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B111&12     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B111&12     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B113&21     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B113&21     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B113&21     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B113&21     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B113&21     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B113&21     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B122&23     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B122&23     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B122&23     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B122&23     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B122&23     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B122&23     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B131&32     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B131&32     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B131&32     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B131&32     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B131&32     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B131&32     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B133&11     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B133&11     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B133&11     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B133&11     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B133&11     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B133&11     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B212&13     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B212&13     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B212&13     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B212&13     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B212&13     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B212&13     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B221&22     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B221&22     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B221&22     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B221&22     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B221&22     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B221&22     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B223&31     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B223&31     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B223&31     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B223&31     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B223&31     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B223&31     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTR2  Introduction Réseau - Labo                          | Q2AIR B232&33     | XX               | Q2                |
+| INTR2  Introduction Réseau - Labo                          | Q2AIR B232&33     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| INTI2  Introduction Indus - Labo                           | Q2AIR B232&33     | XX               | Q2                |
+| INTI2  Introduction Indus - Labo                           | Q2AIR B232&33     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
-| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B232&33     | XX               | Q2                |
+| DON2L  Donées (Base de) - Labo II-Bi4                      | Q2AIR B232&33     | XXX               | Q2                |
 --------------------------------------------------------------------------------------------------------------------------
