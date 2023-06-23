@@ -17,10 +17,10 @@ export default {
         <div style="overflow-x:auto;">
             <table id="myTable">
                 <tr>
-                    <th class="w50">{{ headers[0] }}</th>
-                    <th class="w20">{{ headers[1] }}</th>
-                    <th class="w15">{{ headers[2] }}</th>
-                    <th class="w15">{{ headers[3] }}</th>
+                    <th class="w50" @click="sortBy(0)">{{ headers[0] }} {{ sortedSymbol(0) }}</th>
+                    <th class="w20" @click="sortBy(1)">{{ headers[1] }} {{ sortedSymbol(1) }}</th>
+                    <th class="w15" @click="sortBy(2)">{{ headers[2] }} {{ sortedSymbol(2) }}</th>
+                    <th class="w15" @click="sortBy(3)">{{ headers[3] }} {{ sortedSymbol(3) }}</th>
                 </tr>
                 <tbody>
                     <tr v-for="data in vdatas" :key="data" :class="{ mission: data[4] }">
@@ -38,13 +38,24 @@ export default {
             headers: ["Quoi ?", "Pour ?", "Qui ?", "Quand ?", null], // null means "do not show/export"
             datas: [],
             query: "",
-	    error: null
+	    error: null,
+	    sortIndex: undefined,
+	    sortAscending: undefined
         }
     },
     mounted() {
         this.initialize();
     },
     methods: {
+	sortBy(colIndex) {
+	    if (this.sortIndex === colIndex) {
+		this.sortAscending = ! this.sortAscending
+	    } else {
+		this.sortAscending = true
+		this.sortIndex = colIndex
+	    }
+	    this.datas = _.orderBy(this.datas, v => v[this.sortIndex], this.sortAscending ? 'asc' : 'desc')
+	},
         exportTableToCSV(filename) {
             // Créer un lien de téléchargement et le télécharger
             const csvContent = "data:text/csv;charset=utf-8,"
@@ -88,6 +99,11 @@ export default {
             this.addData('data/Missions.txt', true)
             this.$refs.input.focus();
         },
+	sortedSymbol(colIndex) {
+	    if (colIndex === this.sortIndex) {
+		return this.sortAscending ? "▲" : "▼"
+	    }
+	}
     },
     computed: {
         pattern() {
