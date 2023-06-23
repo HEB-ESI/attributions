@@ -12,6 +12,7 @@ export default {
         
         <p>
             {{ vdatas.length }} {{ vdatas.length > 1 ? "résultats" : "résultat"}}
+            <span class="error" v-if="error">({{ error }})</span>
         </p>
         <div style="overflow-x:auto;">
             <table id="myTable">
@@ -36,7 +37,8 @@ export default {
         return {
             headers: ["Quoi ?", "Pour ?", "Qui ?", "Quand ?", null], // null means "do not show/export"
             datas: [],
-            query: ""
+            query: "",
+	    error: null
         }
     },
     mounted() {
@@ -90,9 +92,11 @@ export default {
     computed: {
         pattern() {
             try {
+		this.error = ""
                 return new RegExp(this.query, 'i');
             } catch (error) {
                 console.error('error :', error);
+		this.error = "Expression régulière invalide"
                 return new RegExp('a^');
             };
         },
