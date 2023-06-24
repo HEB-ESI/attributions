@@ -2,6 +2,9 @@
 // the following is only for the tagged template string below (html`...`)
 const html = (strings, ...values) => String.raw({ raw: strings }, ...values);
 
+const removeDiacritics = (str) => str.normalize("NFD").replace(/\p{Diacritic}/gu, "")
+const hasNoDiacritics = (str) => removeDiacritics(str) == str
+
 export default {
     template: html`
         <div>
@@ -117,8 +120,9 @@ export default {
             };
         },
         vdatas() {
+            const shouldRemoveDiacritics = hasNoDiacritics(this.query)
             return this.datas.filter((item) => {
-                return this.pattern.test(item);
+                return this.pattern.test(shouldRemoveDiacritics ? removeDiacritics(item) : item);
             });
         }
     }
