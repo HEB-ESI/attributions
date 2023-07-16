@@ -1,4 +1,3 @@
-
 // the following is only for the tagged template string below (html`...`)
 const html = (strings, ...values) => String.raw({ raw: strings }, ...values);
 
@@ -122,7 +121,7 @@ export default {
         vdatas() {
             const shouldRemoveDiacritics = hasNoDiacritics(this.query)
             return this.datas.filter((item) => {
-                return this.pattern.test(shouldRemoveDiacritics ? removeDiacritics(item) : item);
+                return this.pattern.test(shouldRemoveDiacritics ? removeDiacritics(item + "") : item);
             });
         }
     }
