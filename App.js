@@ -88,6 +88,7 @@ export default {
         addData(fileName, isMission) {
             fetch(fileName)
                 .then(response => response.text())
+                .then(content => content.replace(/\r\n/, "\n"))
                 .then(contents => {
                     const lines = contents.split('\n');
                     let newdata = lines
@@ -110,8 +111,8 @@ export default {
                 });
         },
         initialize() {
-            this.addData('data/Cours.txt', false)
-            this.addData('data/Missions.txt', true)
+            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/main/Cours.txt', false)
+            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/main/Missions.txt', true)
             this.$refs.input.focus();
         },
         sortedSymbol(colIndex) {
