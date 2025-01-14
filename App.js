@@ -115,9 +115,9 @@ export default {
                 });
         },
         initialize() {
-            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/main/Cours.txt', false)
-            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/main/Missions.txt', true)
-            fetch("https://api.github.com/repos/HEB-ESI/attributions/commits/HEAD")
+            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/data/Cours.txt', false)
+            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/data/Missions.txt', true)
+            fetch("https://api.github.com/repos/HEB-ESI/attributions/commits/data")
                 .then(r => r.json())
                 .then(data => new Date(data.commit.author.date))
                 .then(date => this.lastCommitDate = date.toLocaleDateString("fr-BE", {
