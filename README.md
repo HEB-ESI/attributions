@@ -16,7 +16,9 @@ Une idée de _mdg_, réécrite par _pbt_ avec une touche de _nri_ pour afficher 
 
 - _That's all folks_
 
-L'**installation** est aussi simple qu'un dépôt des fichiers _quelque part_. Nécessite un serveur web. 
+L'**installation** se fait en publiant la branche principale sur un serveur web.
+
+La mise à jour est aussi simple qu'un dépôt des fichiers Cours.txt et Missions.txt dans la branche `data` (sur <https://github.com/HEB-ESI/attributions>).
 
 **Auteurs**
 
