@@ -89,34 +89,28 @@ export default {
             link.setAttribute("download", filename + ".csv");
             link.click();
         },
-        addData(fileName, isMission) {
-            fetch(fileName)
-                .then(response => response.text())
-                .then(content => content.replace(/\r\n/, "\n"))
-                .then(contents => {
-                    const lines = contents.split('\n');
-                    let newdata = lines
-                        .filter(l => !l.match(/---/)) // remove line separators (thank you, MS Access)
-                        .filter(l => !l.match('ahcLibelle')) // remove line headers
-                        .filter(l => !l.match('acActivite'))
-                        .filter(l => !!l) // remove final empty line
-                        .map((line) =>
-                            [
-                                ...line
-                                    .split('|')
-                                    .map(s => s.trim())
-                                    .slice(1, 5),
-                                isMission
-                            ]);
-                    this.datas = [...this.datas, ...newdata];
-                })
+        async addData(fileName, isMission) {
+            const response = await fetch(fileName)
+                .then(response => response.json())
                 .catch(error => {
                     console.error('Une erreur s\'est produite lors de la récupération du fichier :', error);
                 });
+            for (const [profAcronyme, { cours, b1, b2, b3, b4, chargeCours, chargeMission, chargeTotale }] of Object.entries(response)) {
+                for (const [aa, _, coursB1, coursB2, coursB3, coursB4, coursTotal] of cours) {
+                    const newdata = [
+                        aa,
+                        "", // groupe
+                        profAcronyme.slice(0, 3),
+                        "123456".includes(aa.slice(0, 1)) ? "Q" + aa.slice(0, 1) : "?", // quadri
+                        isMission
+                    ]
+                    console.log(newdata);
+                    this.datas = [...this.datas, newdata];
+                }
+            }
         },
         initialize() {
-            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/data/Cours.txt', false)
-            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/data/Missions.txt', true)
+            this.addData('https://raw.githubusercontent.com/HEB-ESI/attributions/refs/heads/data/attributions.json')
             fetch("https://api.github.com/repos/HEB-ESI/attributions/commits/data")
                 .then(r => r.json())
                 .then(data => new Date(data.commit.author.date))
