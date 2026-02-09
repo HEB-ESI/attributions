@@ -6,7 +6,49 @@ const removeDiacritics =
 const hasNoDiacritics = (str) => removeDiacritics(str) == str
 
 export default {
-    template: '<p>Les attributions sont temporairement uniquement disponibles sur <a href="https://drive.google.com/drive/folders/1V6nr4ad3-k8gddNi652KzNIkdTodyy1n">le drive</a>.<br/>On remettra le présent site à jour Real Soon Now &copy;. &mdash; nri</p>',
+    template: html`
+
+        <h1>Attributions HE2B-ESI au {{ lastCommitDate }}</h1>
+
+        <div>
+            <input v-model="query" ref="input" placeholder="Rechercher ...">
+        </div>
+
+        <button @click="e => exportTableToCSV('tableau')">
+        Exporter le résultat en CSV
+        </button>
+        
+        <p>
+            {{ vdatas.length }} résultat{{ vdatas.length > 1 ? "s" : ""}}
+            <span class="error" v-if="error">({{ error }})</span>
+        </p>
+        <div style="overflow-x:auto;">
+            <table id="myTable">
+                <tr>
+                    <th class="w50" @click="sortBy(0)">
+                        {{ headers[0] }} {{ sortedSymbol(0) }}
+                    </th>
+                    <th class="w20" @click="sortBy(1)">
+                        {{ headers[1] }} {{ sortedSymbol(1) }}
+                    </th>
+                    <th class="w15" @click="sortBy(2)">
+                        {{ headers[2] }} {{ sortedSymbol(2) }}
+                    </th>
+                    <th class="w15" @click="sortBy(3)">
+                        {{ headers[3] }} {{ sortedSymbol(3) }}
+                    </th>
+                </tr>
+                <tbody>
+                    <tr v-for="data in vdatas" :key="data" :class="{ mission: data[4] }">
+                        <td>{{ data[0] }}</td>
+                        <td>{{ data[1] }}</td>
+                        <td>{{ data[2] }}</td>
+                        <td>{{ data[3] }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    `,
     data() {
         return {
             headers: ["Quoi ?", "Pour ?", "Qui ?", "Quand ?", null], // null means "do not show/export"
