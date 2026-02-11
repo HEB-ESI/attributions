@@ -89,23 +89,33 @@ export default {
             link.setAttribute("download", filename + ".csv");
             link.click();
         },
-        async addData(fileName, isMission) {
+        async addData(fileName) {
             const response = await fetch(fileName)
                 .then(response => response.json())
                 .catch(error => {
                     console.error('Une erreur s\'est produite lors de la récupération du fichier :', error);
                 });
-            for (const [profAcronyme, { cours, b1, b2, b3, b4, chargeCours, chargeMission, chargeTotale }] of Object.entries(response)) {
+            for (const [profAcronyme, { cours, b1, b2, b3, b4, chargeCours, chargeMission, chargeTotale, rue }] of Object.entries(response)) {
                 for (const [aa, _, coursB1, coursB2, coursB3, coursB4, coursTotal] of cours) {
                     const newdata = [
                         aa,
                         "", // groupe
                         profAcronyme.slice(0, 3),
                         "123456".includes(aa.slice(0, 1)) ? "Q" + aa.slice(0, 1) : "?", // quadri
-                        isMission
+                        false
                     ]
-                    console.log(newdata);
                     this.datas = [...this.datas, newdata];
+                }
+                if (rue) {
+                    for (let ue of rue) {
+                        const newdata = [
+                            `Resp. UE — ${ue}`, "",
+                            profAcronyme.slice(0, 3),
+                            "123456".includes(ue.slice(0, 1)) ? "Q" + ue.slice(0, 1) : "?", // quadri
+                            true
+                        ]
+                        this.datas = [...this.datas, newdata];
+                    }
                 }
             }
         },
